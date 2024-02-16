@@ -1,0 +1,1 @@
+Este es un pequeño programa en C y C++ que usé para el bloque transversal de la asignatura Probabilidad y Estadística del grado de Ingeniería Informática en la Facultad de Informática de Barcelona de la UPC.
